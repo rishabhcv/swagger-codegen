@@ -766,6 +766,7 @@ Here are some companies/projects using Swagger Codegen in production. To add you
 - [Cachet Financial](http://www.cachetfinancial.com/)
 - [carpolo](http://www.carpolo.co/)
 - [Carus](https://www.carus.com/)
+- [CenturyLink](http://www.centurylink.com/)
 - [Cisco](http://www.cisco.com/)
 - [CloudBoost](https://www.CloudBoost.io/)
 - [Cloudsmith](https://cloudsmith.io/)
